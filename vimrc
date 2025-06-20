@@ -23,3 +23,5 @@ set shiftwidth=2
 set ignorecase
 
 set laststatus=2
+
+set expandtab
